@@ -1,0 +1,20 @@
+docs/llms-support/snowplow-mcp/index.md
+  s_fb620e7f62f2b8::t_595d29ea622d0e 153-155
+  s_fb620e7f62f2b8::t_a454edb64bc346 150-151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "e1e046fdba6eb4d8910afc8a5dc3eb1ce8ddc8c4",
+  "prompts": {},
+  "sessions": {
+    "s_fb620e7f62f2b8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d051e7ec-55f6-4599-8ac1-617065aec1a3",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Gleb Lobov <gleb.lobov@snowplowanalytics.com>"
+    }
+  }
+}
