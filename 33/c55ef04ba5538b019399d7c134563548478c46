@@ -1,0 +1,19 @@
+docs/llms-support/index.md
+  s_fb620e7f62f2b8::t_a900ca6ff8a31e 12,14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "33c55ef04ba5538b019399d7c134563548478c46",
+  "prompts": {},
+  "sessions": {
+    "s_fb620e7f62f2b8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d051e7ec-55f6-4599-8ac1-617065aec1a3",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Gleb Lobov <gleb.lobov@snowplowanalytics.com>"
+    }
+  }
+}
