@@ -1,0 +1,23 @@
+docs/llms-support/console-agent-mcp/index.md
+  s_f8fd5f6d2c5f4b::t_fa3dff47ac365c 100-103
+  s_f8fd5f6d2c5f4b::t_3ed832c8184692 120,122-145
+  s_f8fd5f6d2c5f4b::t_9222c28cad21a8 86,93
+  s_f8fd5f6d2c5f4b::t_ec2b0280f38499 92
+  s_f8fd5f6d2c5f4b::t_7704245dba41c8 104-108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "eb0e4128d23b410a5fdc1d5e8efd04e75c25e60e",
+  "prompts": {},
+  "sessions": {
+    "s_f8fd5f6d2c5f4b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "983b7c4d-5ea6-40d5-861d-2a50e0bd5c19",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Gleb Lobov <gleb.lobov@snowplowanalytics.com>"
+    }
+  }
+}
