@@ -1,0 +1,27 @@
+docs/llms-support/cli-mcp-server/index.md
+  s_fb620e7f62f2b8::t_8e50468c25dd50 20
+docs/event-studio/programmatic-management/index.md
+  s_fb620e7f62f2b8::t_e72733624755a3 22
+docs/migration-guides/mixpanel/index.md
+  s_fb620e7f62f2b8::t_b9f919d2fbe9f8 185
+docs/migration-guides/adobe-analytics/index.md
+  s_fb620e7f62f2b8::t_da08054138c8de 169
+docs/llms-support/index.md
+  s_fb620e7f62f2b8::t_27bb69156a5745 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "be825cb484ef680b5d26006b813eceee50cb0e39",
+  "prompts": {},
+  "sessions": {
+    "s_fb620e7f62f2b8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d051e7ec-55f6-4599-8ac1-617065aec1a3",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Gleb Lobov <gleb.lobov@snowplowanalytics.com>"
+    }
+  }
+}
